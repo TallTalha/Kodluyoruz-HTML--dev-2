@@ -1,4 +1,4 @@
-  # Kodluyoruz HTML eğitiminde bulunan ilk ödevin reposudur.
+  # Kodluyoruz HTML eğitiminde bulunan ikinci ödevin reposudur.
   ##  www.patika.dev profilim : https://app.patika.dev/JessFlexx
   ## Ödevin ekran görüntüsü
 
